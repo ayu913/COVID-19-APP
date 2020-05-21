@@ -42,11 +42,11 @@ COVID-19 Tracker app is a free and open source project. Any contributions are we
 - Open a pull Request
 
 ## Credits
--Thanks COVID-19 API for country data.
+- Thanks https://covidtracking.com/api for country data.
 
--Thanks COVID19-India API for India data.
+- Thanks https://api.covid19india.org API for India data.
 
--Thanks Google Fonts for the app fonts.
+- Thanks https://fonts.google.com for the app fonts.
 
--Thanks FontAwesome for icons.
+- Thanks FontAwesome for icons.
 
