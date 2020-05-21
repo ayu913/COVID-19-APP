@@ -28,6 +28,8 @@ Covid-19 Tracker tracks active,confirmed, recovered, and deaths due to coronavir
 
 - Has a minimal user interface.
 
+- Can call and message to helpline number.
+
 - View Detailed information on all the countries in the world.
 
 - Information on symptoms and prevention of Covid-19.
@@ -48,5 +50,5 @@ COVID-19 Tracker app is a free and open source project. Any contributions are we
 
 - Thanks https://fonts.google.com for the app fonts.
 
-- Thanks FontAwesome for icons.
+- Thanks https://www.vexels.com for icons.
 
